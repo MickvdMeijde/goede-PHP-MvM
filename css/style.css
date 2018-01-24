@@ -1,0 +1,24 @@
+body{
+	font-family: 'Zilla Slab', serif;
+	font-size: 30px;
+	color: white;
+	background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%
+}
+#message, #time {
+    z-index: 1;
+    position:absolute;
+    text-align:center;
+    width: 100%;
+    top: 30%;
+}
+#big{
+	font-size: 3em;
+}
+
+#time{
+    font-size: 1.5em;
+    top: 50%;
+}
+@import url('https://fonts.googleapis.com/css?family=Zilla+Slab');
